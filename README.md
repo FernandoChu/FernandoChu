@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Fernando Chu, and I'm very interested in topics related to mathematical logic. In particular, I'm learning more about type theories, and using them to formalize mathematics.
+I'm Fernando Chu, a first year PhD Student at Utrecht University, working under [Paige North](https://paigenorth.github.io/).
+My main interests revolve around category theory and type theory. In particular, I'd like to better understand how these can be used to tackle classical problems, generate better abstractions and/or facilitate formalization of results into proof assistants.
 
 **About me**
 
